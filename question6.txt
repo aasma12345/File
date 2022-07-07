@@ -1,0 +1,2 @@
+A file is some information or data which stays in the computer storage devices
+You already know about different kinds of file , like your music files, video files, text files.
